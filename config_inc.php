@@ -10,9 +10,9 @@
 	
 	$g_hostname = '192.168.1.8';
 	$g_db_type = 'mysql';
-	$g_database_name = 'bbt';
+	$g_database_name = 'bbtd';
 	
 	/*$g_database_name = 'bbt';*/
-	$g_db_username = 'php';
+	$g_db_username = 'phps';
 	$g_db_password = 'php';
 ?>
